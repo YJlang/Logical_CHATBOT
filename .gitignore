@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env
+chatbot_env/
+/chatbot_env
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Sensitive Information
+config.ini
+secrets.json
+.env
+
+# Chromedriver
+chromedriver.exe
+
+# Other
+.DS_Store
